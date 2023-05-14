@@ -47,7 +47,7 @@ Topics:
       node_modules ( executable( moduled js )/binary of the third party packages )
       
       examples:
-        lodash, 
+        lodash, express ( next session )
     
     Intro Post-Man
 
